@@ -1,4 +1,4 @@
-## Hey, I'm Edwin! 👋
+## Hey, I'm Edwin!
 A 20-year-old aspiring full-stack web developer.
 
 Started off self-learning HTML, CSS, and JavaScript back in 2019, then continued developing my skills at university (2020-present).
