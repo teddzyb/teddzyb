@@ -1,11 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
 ## Hey, I'm Edwin!
 A 20-year-old aspiring full-stack web developer.
 
-Started off self-learning HTML, CSS, and JavaScript, then continued developing my skills at university.
+Started off self-learning HTML, CSS, and JavaScript back in 2019, then continued developing my skills at university (2020-present).
 
-Currently developing websites with Vue.js and Laravel, and stepping into mobile development.
+Currently developing websites with Vue.js and Laravel, and stepping into the realm of mobile development.
 
 #### Languages
 <div style="display:flex">
@@ -28,6 +26,7 @@ Currently developing websites with Vue.js and Laravel, and stepping into mobile 
 <div style="display:flex">
   <img title="Windows 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height:24px" />
   <img title="Google Chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="height:24px" />
+  <img title="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height:24px" />
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:24px" />
   <img title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="height:24px" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:24px" />
