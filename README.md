@@ -3,7 +3,7 @@ A 20-year-old aspiring full-stack web developer.
 
 Started off self-learning HTML, CSS, and JavaScript back in 2019, then continued developing my skills at university (2020-present).
 
-Currently developing websites with Vue.js and Laravel, and stepping into the realm of mobile development.
+Currently developing websites with Vue.js and Laravel while stepping into the realm of mobile development.
 
 #### Languages
 <div style="display:flex">
@@ -34,8 +34,15 @@ Currently developing websites with Vue.js and Laravel, and stepping into the rea
   <img title="Microsoft Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="height:24px" />
 </div>
 
+#### Contact
+<div style="display:flex">
+  <a href="mailto:teddybartletg88@gmail.com"><img src="https://img.shields.io/badge/-teddybartletg88@gmail.com-c71610?style=flat-round&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/edwin-bartlett"><img src="https://img.shields.io/badge/-Edwin_Bartlett-0077b5?style=flat-round&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/teddzyb"><img src="https://img.shields.io/badge/-teddzyb-00acee?style=flat-round&logo=Twitter&logoColor=white"/></a>
+</div>
+
 ## Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddzyb&count_private=true&hide=prs&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddzyb&count_private=true&hide=prs&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddzyb&layout=compact&hide=css,scss&theme=radical&border_color=d93a7c&border_radius=10&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
