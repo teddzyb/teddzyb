@@ -8,6 +8,7 @@ Currently developing websites with Vue.js and Laravel while stepping into the re
 #### Languages
 <div style="display:flex">
   <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:24px" />
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height:24px" />
   <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:24px" />
   <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:24px" />
   <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:24px" />
