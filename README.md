@@ -27,7 +27,6 @@ Currently developing websites with Vue.js and Laravel while stepping into the re
 <div style="display:flex">
   <img title="Windows 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height:24px" />
   <img title="Google Chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="height:24px" />
-  <img title="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height:24px" />
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:24px" />
   <img title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="height:24px" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:24px" />
@@ -37,9 +36,9 @@ Currently developing websites with Vue.js and Laravel while stepping into the re
 
 #### Contact
 <div style="display:flex">
-  <a href="mailto:teddybartletg88@gmail.com"><img src="https://img.shields.io/badge/-teddybartletg88@gmail.com-c71610?style=flat-round&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/edwin-bartlett"><img src="https://img.shields.io/badge/-Edwin_Bartlett-0077b5?style=flat-round&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/teddzyb"><img src="https://img.shields.io/badge/-teddzyb-00acee?style=flat-round&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:teddybartletg88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-teddybartletg88@gmail.com-c71610?style=flat-round&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/edwin-bartlett" target="_blank"><img src="https://img.shields.io/badge/-Edwin_Bartlett-0077b5?style=flat-round&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/384648237216432129" target="_blank"><img src="https://img.shields.io/badge/-Zigh%235908-5865F2?style=flat-round&logo=Discord&logoColor=white"/></a>
 </div>
 
 ## Statistics
