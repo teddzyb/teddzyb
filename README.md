@@ -25,8 +25,10 @@ Currently developing websites with Vue.js and Laravel while stepping into the re
 
 #### Platforms & Tools
 <div style="display:flex">
-  <img title="Windows 10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height:24px" />
+  <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height:24px" />
+  <img title="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="height:24px" />
   <img title="Google Chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="height:24px" />
+  <img title="Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="height:24px" />
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:24px" />
   <img title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="height:24px" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:24px" />
