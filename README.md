@@ -3,7 +3,7 @@ A 20-year-old aspiring full-stack web developer.
 
 Started off self-learning HTML, CSS, and JavaScript back in 2019, then continued developing my skills at university (2020-present).
 
-Currently into mobile development with Xamarin.Forms and developing websites with Laravel and Vue.
+Currently into mobile development with Xamarin.Forms and game development with PlayCanvas.
 
 #### Languages
 <div style="display:flex">
@@ -16,6 +16,7 @@ Currently into mobile development with Xamarin.Forms and developing websites wit
   <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="height:24px" />
   <img title="ASP.NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="height:24px" />
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:24px" />
+  <img title="Xamarin.Forms" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" style="height:24px" />
   <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height:24px" />
   <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:24px" />
   <img title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="height:24px" />
