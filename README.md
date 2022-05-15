@@ -1,9 +1,11 @@
 ## Hey, I'm Edwin!
-A 20-year-old aspiring full-stack web developer.
+👤 A 20-year-old aspiring full-stack web developer.
 
-Started off self-learning HTML, CSS, and JavaScript back in 2019, then continued developing my skills at university (2020-present).
+⌚ Self-learned HTML, CSS, and JavaScript in 2019, then continued developing my skills at university (2020-present).
 
-Currently into mobile development with Xamarin.Forms and game development with PlayCanvas.
+➡️ Just finished a Xamarin.Forms project. ➡️ Currently developing websites with Vue. ➡️ Planning to learn React Native!
+
+## Tech Stack
 
 #### Languages & Frameworks
 <div style="display:flex">
