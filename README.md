@@ -2,7 +2,7 @@
 
 ⭐
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;20-year-old+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D111700&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;20-year-old+web+developer.)](https://git.io/typing-svg)
 
 <div style="display:flex">
   <a href="mailto:teddybartletg88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-teddybartletg88@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
