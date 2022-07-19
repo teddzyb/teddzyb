@@ -12,7 +12,7 @@
 
 <br/>
 
-I'm a 20-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, then continued developing my skills at university since 2020. I constantly aim to learn new things, gain more experience, and develop my skills.
+I'm a 20-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, then continued developing my skills at university since 2020. I am constantly aiming to learn new things, expand my stack, and develop my skills.
 
 I've just recently completed a Xamarin.Forms project and a Vue.js website. Now, I'm working on a turn-based card-collecting strategy game with Next.js and Firebase.
 
