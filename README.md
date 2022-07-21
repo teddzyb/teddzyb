@@ -69,6 +69,6 @@ I've just recently completed a Xamarin.Forms project and a Vue.js website. Now, 
 
 ### GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=1&count_private=true&hide=prs&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=1&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
