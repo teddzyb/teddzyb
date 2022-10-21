@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;20-year-old+web+developer.)](https://git.io/typing-svg)
 
 <div style="display:flex">
-  <a href="mailto:teddybartletg88@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-teddybartletg88@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:edwinbartlett@duck.com" target="_blank"><img src="https://img.shields.io/badge/-edwinbartlett@duck.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/edwin-bartlett" target="_blank"><img src="https://img.shields.io/badge/-Edwin_Bartlett-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/384648237216432129" target="_blank"><img src="https://img.shields.io/badge/-Zigh%235908-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 </div>
