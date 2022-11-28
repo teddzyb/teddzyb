@@ -14,7 +14,7 @@
 
 I'm a 20-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
-I've just recently completed a Xamarin.Forms project and a Vue.js website. Currently, I'm working on a turn-based card-collecting strategy game with Next.js and Firebase. In the future, I'm looking to learn Nuxt.js, Ionic, and React Native!
+I'm currently working on WatchBox, a utility web application that allows users to keep track of and record their viewing history for movies and TV shows, using the T3 stack. In the future, I'm looking to learn Nuxt.js, Electron, and React Native!
 
 ---
 
