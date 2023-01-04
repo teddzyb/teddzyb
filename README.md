@@ -68,10 +68,10 @@ I've been working on a lot of Next JS projects recently! Right now, I'm developi
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddzyb&hide_title=1&layout=compact&hide=css,scss&theme=radical&border_color=d93a7c&border_radius=10&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddzyb&hide_title=true&layout=compact&hide=css,scss&theme=radical&border_color=d93a7c&border_radius=10&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=1&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=true&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
