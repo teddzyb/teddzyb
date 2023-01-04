@@ -14,7 +14,7 @@
 
 I'm a 20-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
-I'm currently working on WatchBox, a utility web application that allows users to keep track of and record their viewing history for movies and TV shows, using the T3 stack. In the future, I'm looking to learn Nuxt.js, Electron, and React Native!
+I've been working on a lot of Next JS projects recently! Right now, I'm developing Journeyer, a tabletop strategy card game with Convex for the backend. In the future, I'm looking to learn Svelte, Nuxt.js, Electron, and React Native!
 
 ---
 
