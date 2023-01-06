@@ -64,7 +64,7 @@ I've been working on a lot of Next JS projects recently! Right now, I'm developi
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+<!-- ---
 
 ### Top Languages
 
@@ -72,6 +72,6 @@ I've been working on a lot of Next JS projects recently! Right now, I'm developi
 
 ### GitHub Statistics
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=true&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=true&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
