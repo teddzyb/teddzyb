@@ -2,7 +2,7 @@
 
 ⭐
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;20-year-old+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;21-year-old+web+developer.)](https://git.io/typing-svg)
 
 <div style="display:flex">
   <a href="mailto:edwinbartlett@duck.com" target="_blank"><img src="https://img.shields.io/badge/-edwinbartlett@duck.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -12,9 +12,9 @@
 
 <br/>
 
-I'm a 20-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
+I'm a 21-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
-I've been working on a lot of Next JS projects recently! Right now, I'm developing Journeyer, a tabletop strategy card game with Convex for the backend. In the future, I'm looking to learn Svelte, Nuxt.js, Electron, and React Native!
+I've been working on a bunch of Next JS projects recently! Right now, I'm developing Journeyer, a tabletop strategy card game with Convex as the backend. In the future, I'm looking to learn Svelte, Nuxt.js, Electron, and React Native!
 
 ---
 
@@ -64,14 +64,12 @@ I've been working on a lot of Next JS projects recently! Right now, I'm developi
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<!-- ---
-
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddzyb&hide_title=true&layout=compact&hide=css,scss&theme=radical&border_color=d93a7c&border_radius=10&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Statistics
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=true&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddzyb&hide_title=true&count_private=true&show_icons=true&theme=radical&border_color=d93a7c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
