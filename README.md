@@ -1,6 +1,6 @@
 <div align="center">
 
-⭐
+🚀
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;21-year-old+web+developer.)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 <br/>
 
-I'm a 21-year-old aspiring full-stack web developer. I taught myself HTML, CSS, and JavaScript in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
+I'm a 21-year-old full-stack web developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
-I've been working on a bunch of Next JS projects recently! Right now, I'm developing Journeyer, a tabletop strategy card game with Convex as the backend. In the future, I'm looking to learn Svelte, Nuxt.js, Electron, and React Native!
+I'm currently building NextGig, a mobile talent marketplace platform, with React Native and Convex. In the future, I'm interested in learning Svelte, Nuxt.js, and Electron!
 
 ---
 
@@ -25,9 +25,9 @@ I've been working on a bunch of Next JS projects recently! Right now, I'm develo
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +39,11 @@ I've been working on a bunch of Next JS projects recently! Right now, I'm develo
 ![Discord.js](https://img.shields.io/badge/-Discord.js-090915?style=for-the-badge&logo=discorddotjs)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=for-the-badge&logo=convex)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
