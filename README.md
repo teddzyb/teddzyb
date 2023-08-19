@@ -2,7 +2,7 @@
 
 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;21-year-old+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;21-year-old+software+developer.;Hire+me!)](https://git.io/typing-svg)
 
 <div style="display:flex">
   <a href="mailto:edwinbartlett@duck.com" target="_blank"><img src="https://img.shields.io/badge/-edwinbartlett@duck.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -12,9 +12,9 @@
 
 <br/>
 
-I'm a 21-year-old full-stack web developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
+I'm a 21-year-old software developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
-I'm currently building NextGig, a mobile talent marketplace platform, with React Native and Convex. In the future, I'm interested in learning Svelte, Nuxt.js, and Electron!
+I'm currently building NextGig, a mobile talent marketplace platform with React Native and Convex. I'm also working on large scalable systems for clients on a per-project-basis with my team at NextDevs. Hire us!
 
 ---
 
