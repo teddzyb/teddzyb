@@ -18,7 +18,7 @@ I'm currently building NextGig, a mobile talent marketplace platform with React 
 
 ---
 
-### Technology Stack
+### My Tech Stack
 
 #### Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
