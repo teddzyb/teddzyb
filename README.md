@@ -12,7 +12,7 @@
 
 <br/>
 
-I'm a 21-year-old software developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
+I'm a 22-year-old software developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
 
 I'm currently building NextGig, a mobile talent marketplace platform with React Native and Convex. I'm also working on large scalable systems for clients on a per-project-basis with my team at NextDevs. Hire us!
 
