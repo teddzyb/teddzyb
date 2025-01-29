@@ -2,19 +2,16 @@
 
 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;21-year-old+software+developer.;Hire+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&background=0D1117&lines=Hey%2C+I'm+Edwin!;I'm+from+the+Philippines.;I'm+23+years+old.;Software+Developer+and+Educator.)](https://git.io/typing-svg)
 
 <div style="display:flex">
-  <a href="mailto:edwinbartlett@duck.com" target="_blank"><img src="https://img.shields.io/badge/-edwinbartlett@duck.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/edwin-bartlett" target="_blank"><img src="https://img.shields.io/badge/-Edwin_Bartlett-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/users/384648237216432129" target="_blank"><img src="https://img.shields.io/badge/-teddzyb-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="mailto:ebartlett.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ebartlett.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/edwin-bartlett" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a>
 </div>
 
 <br/>
 
-I'm a 22-year-old software developer. I taught myself HTML, CSS, and JavaScript back in 2019, and have been developing my skills at university since 2020. I'm always looking to learn new things, expand my stack, and improve my skills.
-
-I'm currently building NextGig, a mobile talent marketplace platform with React Native and Convex. I'm also working on large scalable systems for clients on a per-project-basis with my team at NextDevs. Hire us!
+I'm a 23-year-old software developer at Full Scale and a Computer Science teacher at the University of San Carlos. I'm always interested in opportunities in tech. Reach out to me any time, anywhere.
 
 ---
 
